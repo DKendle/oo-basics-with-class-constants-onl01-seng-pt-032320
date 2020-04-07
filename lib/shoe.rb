@@ -15,7 +15,4 @@ class Shoe
   end
 
 
-
- ugg = shoe.new("")
- ugg 
 end
