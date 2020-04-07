@@ -14,4 +14,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
 
+
+
+ ugg = shoe.new("")
+ ugg 
 end
